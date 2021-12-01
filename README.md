@@ -1,1 +1,10 @@
 # ICC_World_Cup_Analysis
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot.png
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(1).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(2).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(3).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(4).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(5).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(6).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(7).png)
+![alt text](https://github.com/Rashmiranjan2001/ICC_World_Cup_Analysis/blob/main/output/newplot%20(8).png)
